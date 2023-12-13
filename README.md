@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemeterFS
+- 👋 Greetings from Demeter Frontier Systems Inc
 - 👀 I’m interested in ...hyperspectral in agriculture 
 - 🌱 I’m currently learning ... machine learning and cloud
 - 💞️ I’m looking to collaborate on ... ML uses in agriculture 
